@@ -1,16 +1,17 @@
-## Hi there 👋
+Bem vindo ao meu perfil 💙
 
-<!--
-**Bonnie-Jojo/Bonnie-Jojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é David Zanini
 
-Here are some ideas to get you started:
+Minhas principais atividades na plataforma estão relacionados á:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Aulas do Alura 📝;
+
+-Programação JavaScript 🖥️;
+
+-Minha organização e desenvolvimento pessoal em programação 📈
+
+Contato Discord:bonniethefox
+
+Beba água
+
+![download](https://github.com/Bonnie-Jojo/Bonnie-Jojo/assets/172427378/ff84480d-dc38-476a-84ea-505668c0549a)
